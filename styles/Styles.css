@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header01{
+    background-image: url(/assets/bgHeader.png);
+    height: 100vh;
+    background-position-x: center ;
+    background-position-y: -150px ;
+    background-size: -100;
+    text-align: center;
+
+}
+/*div*/
+.div1{
+    padding: 6%;
+}
+.div2{
+    display: flex;
+    
+}
+.div3{
+    padding:   13% 9%;
+}
+.div4{
+    padding: 5% 9%;
+
+}
+.div5{
+    display: flex;
+    padding: 5%;
+}
+/*h1*/
+.h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    color: rgba(254,137,65,255);
+}
+.h2{
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: rgba(254,137,65,255);
+
+}
+.h3{
+    padding: 0 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    color: rgba(254,137,65,255);
+}
+.h4{
+    padding: 0 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: rgba(254,137,65,255);
+    
+}
+/*p*/
+.p1{
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+.p2{
+    padding: 2%;
+    font-size: 25px
+}
+.p3{
+    padding: 0 13% 0 9%;
+    font-size: 25px
+    
+}
+.p4{
+
+    font-size: 20px;
+    padding: 0 10%;
+    height: 100px;
+    width: 800px;
+}
+/*demas*/
+.b1{
+    background-color: rgba(254,137,65,255);
+    color: aliceblue;
+    height: 30px;
+    right: 100px;
+    border: none;
+}
+.img{
+    padding: 0 4%;
+}
+.header02{
+    background-image: url(/assets/bgDown.png);
+    height: 70vh;
+    right: 600vh;
+    background-position-x: -100px ;
+    background-position-y: -200;
+    
+    
+    
+}
+.div6{
+    padding: 12% 3% ;
+
+
+}
+
