@@ -6,9 +6,9 @@
 .header01{
     background-image: url(/assets/bgHeader.png);
     height: 100vh;
-    background-position-x: center ;
-    background-position-y: -150px ;
-    background-size: -100;
+    background-position-x: 110px ;
+    background-position-y: -130px ;
+
     text-align: center;
 
 }
@@ -47,44 +47,107 @@
 .h3{
     padding: 0 10%;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 48px;
+    font-size: 44px;
     color: rgba(254,137,65,255);
+    width: 650px;
 }
 .h4{
-    padding: 0 10%;
+    padding: 0 3%;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 43px;
     color: rgba(254,137,65,255);
+    width: 790px;
     
 }
 /*p*/
 .p1{
     font-size: 30px;
     margin-bottom: 100px;
+    
 }
 .p2{
     padding: 2%;
-    font-size: 25px
+    font-size: 25px;
+    width:604px;
 }
 .p3{
-    padding: 0 13% 0 9%;
-    font-size: 25px
+    padding: 0 15% 0 9%;
+    font-size: 23px;
+    width: 700px;
+    margin-top: 50px;
+    margin-left: 10px;
+    
     
 }
 .p4{
-
+    margin-top: 20px;
     font-size: 20px;
-    padding: 0 10%;
+    padding: 0 3%;
     height: 100px;
-    width: 800px;
+    width: 570px;
 }
 /*demas*/
 .b1{
     background-color: rgba(254,137,65,255);
     color: aliceblue;
-    height: 30px;
+    height: 50px;
     right: 100px;
     border: none;
+    width: 150px;
+    border-radius: 50px;
+    margin-left: 10px;
+
+}
+.b2{
+    
+        background-color: rgba(254,137,65,255);
+        color: aliceblue;
+        height: 50px;
+        right: 100px;
+        border: none;
+        width: 150px;
+        border-radius: 50px;
+        margin-left: 10px;
+        margin-top: 30px;
+}
+
+.b3{
+    
+    background-color: rgba(254,137,65,255);
+    color: aliceblue;
+    height: 50px;
+    right: 70px;
+    border: none;
+    width: 150px;
+    border-radius: 50px;
+    margin-left: 72px;
+    margin-top: 80px ;
+
+
+}
+.b4{
+    background-color: rgba(254,137,65,255);
+    color: aliceblue;
+    height: 50px;
+    right: 70px;
+    border: none;
+    width: 150px;
+    border-radius: 50px;
+    
+
+    
+
+
+}
+.b5{
+    background-color: rgba(254,137,65,255);
+    color: aliceblue;
+    height: 50px;
+    right: 70px;
+    border: none;
+    width: 150px;
+    border-radius: 50px;
+    margin: 50px 42px ;
 }
 .img{
     padding: 0 4%;
@@ -98,10 +161,39 @@
     
     
     
+    
 }
 .div6{
-    padding: 12% 3% ;
+    padding: 9% 3% ;
 
 
 }
+.div7{
+    display: flex;
+    justify-content: center;
 
+}
+footer{
+    background-color: rgba(254,137,65,255);
+    color: antiquewhite;
+    padding: 2%;
+    text-align: center;
+
+}
+.div8{
+    padding: 5%;
+
+}
+li{
+    font-size: 20px;
+    list-style: none;
+}
+h5{
+    font-size: 20px;
+}
+.line{
+    border-top: 10px solid #0000;
+    background-color: #f97316;
+    border: none;
+    box-shadow: 0-5px 10px rgba(0,0,0, 0.3);
+}
